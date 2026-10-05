@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader>
+  <data name="$this.Text" xml:space="preserve"><value>Мировые часы</value></data>
+  <data name="menuClock.Text" xml:space="preserve"><value>&amp;Часы</value></data>
+  <data name="menuStart.Text" xml:space="preserve"><value>&amp;Старт</value></data>
+  <data name="menuStop.Text" xml:space="preserve"><value>Сто&amp;п</value></data>
+  <data name="menuExit.Text" xml:space="preserve"><value>&amp;Выход</value></data>
+  <data name="menuLanguage.Text" xml:space="preserve"><value>&amp;Язык</value></data>
+  <data name="labelMoscow.Text" xml:space="preserve"><value>Москва</value></data>
+  <data name="labelLondon.Text" xml:space="preserve"><value>Лондон</value></data>
+  <data name="labelVladivostok.Text" xml:space="preserve"><value>Владивосток</value></data>
+</root>
